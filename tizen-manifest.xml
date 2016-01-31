@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.1" package="org.example.glviewshader6" version="1.0.1">
+    <profile name="wearable" />
+    <ui-application appid="org.example.glviewshader6" exec="glviewshader6" type="capp" hw-acceleration="on" multiple="false" taskmanage="true" nodisplay="false">
+        <icon>glviewshader6.png</icon>
+        <label>glviewshader6</label>
+	</ui-application>
+</manifest>
